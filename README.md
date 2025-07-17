@@ -1,4 +1,4 @@
-# Analisis-Data-Perokok-di-Indonesia-dengan-Pytho
+# Analisis Data Perokok di Indonesia dengan Python
 Project ini bertujuan untuk menganalisis data perokok di Indonesia berdasarkan jenis kelamin dan usia. Analisis ini awalnya ditulis sebagai artikel di Medium:
 🔗 [Baca Artikel Lengkap](https://medium.com/@alitaramadhina/belajar-data-analyst-dari-nol-analisis-data-perokok-dengan-python-738548ddd7e3)
 
